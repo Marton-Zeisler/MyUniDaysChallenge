@@ -14,5 +14,6 @@ I also uploaded my program to an online IDE, where the program can be compiled.
 1. Go to this link and click on the green run button to compile and run it: https://leetcode.com/playground/KpWRfASU
 
 
+## Test Case Results:
 Here's the result of test cases using my solution:
 <img src="https://raw.githubusercontent.com/Marton-Zeisler/MyUniDaysChallenge/master/Results.png" />
